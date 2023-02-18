@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9acfe7e399d22a419a1a13f24fe0464, type: 3}
+  m_Name: Quest103
+  m_EditorClassIdentifier: 
+  id: 103
+  title: "w\uD0A4 \uB204\uB974\uAE30"
+  contents: "\uB204\uB974\uACE0 \uC788\uC744\uB54C\uB9CC \uD074\uB9AC\uC5B4"
+  NPC_tagName: NPC_Misaki

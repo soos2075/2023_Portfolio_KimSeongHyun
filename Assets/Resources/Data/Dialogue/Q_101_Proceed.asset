@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82d9ac97cdcc7f14c8b007ff005c8f1c, type: 3}
+  m_Name: Q_101_Proceed
+  m_EditorClassIdentifier: 
+  dialogues:
+  - name: "\uBBF8\uC0AC\uD0A4"
+    contents: "\uC7A5\uBE44\uB97C \uCC29\uC6A9\uD55C \uC0C1\uD0DC\uC5D0\uC11C \uB9D0\uC744
+      \uAC78\uC5B4\uC918.\n\uC7A5\uBE44\uB294 <b><color=red>\uC778\uBCA4\uD1A0\uB9AC</color></b>\uB97C
+      \uC5F4\uC5B4\uC11C \uCC29\uC6A9\uD560 \uC218 \uC788\uC5B4."
+    sprite: {fileID: 21300000, guid: 3b4b2c749a7715e4694c2e3e3c7afb55, type: 3}
+    indexer: 2
+    option: 0
+  startQuest: {fileID: 0}
+  completeQuest: {fileID: 0}

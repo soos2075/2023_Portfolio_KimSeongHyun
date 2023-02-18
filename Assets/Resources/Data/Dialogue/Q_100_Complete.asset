@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82d9ac97cdcc7f14c8b007ff005c8f1c, type: 3}
+  m_Name: Q_100_Complete
+  m_EditorClassIdentifier: 
+  dialogues:
+  - name: "\uCF54\uD558\uCFE0"
+    contents: "\uC548\uB155\uD558\uC138\uC694! \uCF54\uD558\uCFE0\uB77C\uACE0 \uD569\uB2C8\uB2E4."
+    sprite: {fileID: 21300000, guid: 9b7d3d0428e3be142943d20f66bbfac1, type: 3}
+    indexer: 0
+    option: 1
+  - name: "\uBBF8\uC0AC\uD0A4"
+    contents: "\uC548\uB155? \uB09C \uBBF8\uC0AC\uD0A4\uB77C\uACE0 \uD574. \uC774
+      \uB9C8\uC744\uC740 \uCC98\uC74C\uC774\uB2C8?"
+    sprite: {fileID: 21300000, guid: e9147b7111be70644b7f7f857b3aa631, type: 3}
+    indexer: 2
+    option: 3
+  - name: "\uCF54\uD558\uCFE0"
+    contents: "\uB124. \uB208\uC744 \uB5A0\uBCF4\uB2C8 \uAC11\uC790\uAE30 \uC774\uB7F0
+      \uC774\uC0C1\uD55C \uACF3\uC5D0 \uC624\uAC8C \uB410\uC5B4\uC694..."
+    sprite: {fileID: 21300000, guid: 4db1bca08f1d3674ea622975aa32e607, type: 3}
+    indexer: 0
+    option: 0
+  startQuest: {fileID: 0}
+  completeQuest: {fileID: 11400000, guid: f6aca1e28cb34d743b7b325e78d8fa85, type: 2}

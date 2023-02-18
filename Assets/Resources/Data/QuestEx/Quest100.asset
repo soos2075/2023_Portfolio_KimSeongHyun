@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9acfe7e399d22a419a1a13f24fe0464, type: 3}
+  m_Name: Quest100
+  m_EditorClassIdentifier: 
+  id: 100
+  title: Hello World!
+  contents: "\uBBF8\uC0AC\uD0A4\uC5D0\uAC8C \uC811\uADFC\uD558\uC5EC <b><color=red>F</color></b>\uD0A4\uB97C
+    \uB204\uB978\uB2E4."
+  NPC_tagName: NPC_Misaki
